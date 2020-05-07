@@ -1,0 +1,54 @@
+{
+    "records": [
+        {
+            "personal_details": {
+                "name": "Ishara Shanuka",
+                "username": "ish28",
+                "id": "patient001",
+                "age": "23",
+                "location": "Matara",
+                "password": "123123"
+            },
+            "sickness_details": {
+                "date_of_sick": "04-05-2020",
+                "type_of_sick": "Fever",
+                "other_details": "Virus fever"
+            },
+            "drug_prescriptions": {
+                "drug_details": "Tablet A, Tablet B",
+                "period_for_drugs": "2 weeks from today",
+                "status": "Not Given"
+            },
+            "lab_test_prescriptions": {
+                "lab_test_details": "No serious test. Just little bit",
+                "date_for_test": "07-05-2020",
+                "status": "Not Done Yet"
+            }
+        },
+        {
+            "personal_details": {
+                "name": "Sameera",
+                "username": "sam90",
+                "id": "patient002",
+                "age": "29",
+                "location": "Galle",
+                "password": "123123"
+            },
+            "sickness_details": {
+                "date_of_sick": "01-04-2020",
+                "type_of_sick": "Cold",
+                "other_details": "Normal Cold"
+            },
+            "drug_prescriptions": {
+                "drug_details": "Tablet ABC and tablet PQR",
+                "period_for_drugs": "week from now",
+                "status": "Not Given"
+            },
+            "lab_test_prescriptions": {
+                "lab_test_details": "Up",
+                "date_for_test": "06-04-2020",
+                "status": "Not Done Yet"
+            }
+        }
+    ]
+}
